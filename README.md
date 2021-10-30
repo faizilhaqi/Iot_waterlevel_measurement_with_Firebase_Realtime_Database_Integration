@@ -3,4 +3,7 @@ This is a water level measurement's tool integrated with IOT Systems. I use ultr
 Then the measurement data will be saved to the database. For the database I use Firebase Realtime Database.
 I also sync my device time via internet to ntp server. 
 
-for the client side, I created an android application to display measurement data in realtime. and also I added a feature so that the client can search data by date. 
+for the client side, I created an android application with Kodular's Platform to display measurement data in realtime. and also I added a feature so that the client can search data by date. 
+
+note: * Kodular is a platform to make android application using block programming
+      * NTP Server is a Server for sync time 
