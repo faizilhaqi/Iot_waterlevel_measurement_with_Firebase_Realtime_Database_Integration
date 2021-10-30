@@ -6,5 +6,5 @@ I also sync my device time via internet to ntp server.
 for the client side, I created an android application with Kodular's Platform to display measurement data in realtime. and also I added a feature so that the client can search data by date. 
 
 note: * Kodular is a platform to make android application using block programming
-      * To open the kodular file you need to open it from kodular's Platform by import it(.Aia)
+      * To open the (MonitoringElevasiPLTABatangAgam_copy.aia)'s file you need to open kodular in your browser first, then import it. 
       * NTP Server is a Server for sync time 
